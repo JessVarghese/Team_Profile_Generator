@@ -1,6 +1,6 @@
 const Engineer = require("../lib/Engineer");
 
-const engineer = new Engineer('jane', '1', 'jane@aol.com', 'https://github.com/oh-my-fish');
+const engineer = new Engineer('jane', '1', 'jane@aol.com', 'engineer', 'https://github.com/oh-my-fish');
 
 
 test('creates a new engineer object', () => {
@@ -21,6 +21,11 @@ test('test getId() method', () => {
 
 test('test getEmail() method', () => {
     expect(engineer.getEmail()).toBe('jane@aol.com');
+
+});
+
+test('test getRole() method', () => {
+    expect(engineer.getRole()).toBe('Engineer');
 
 });
 

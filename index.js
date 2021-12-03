@@ -2,6 +2,7 @@ const inquirer = require('inquirer');
 const generatePage = require('./src/team-profiles');
 const fs = require('fs');
 const Employee = require('./lib/Employee');
+const Engineer = require('./lib/Engineer');
 
 const promptManager = () => {
 
