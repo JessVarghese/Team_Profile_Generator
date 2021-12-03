@@ -1,0 +1,22 @@
+{
+  "name": "Team_Profile_Generator",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JessVarghese/Team_Profile_Generator"
+  },
+  "author": "Jess Varghese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JessVarghese/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/JessVarghese/Team_Profile_Generator",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
