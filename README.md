@@ -23,7 +23,9 @@
   * npm install inquirer
  
   ## Usage
-  ![VIDEO](https://watch.screencastify.com/v/dwW9YbnSP9SW1Y8XUZkp)
+
+[VIDEO](https://watch.screencastify.com/v/dwW9YbnSP9SW1Y8XUZkp)
+  
   ![DEMO](./assets/TPG.gif)
   
   ![visuals](./assets/TPG_sample.png)
