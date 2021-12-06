@@ -7,7 +7,7 @@ test('creates a new manager object', () => {
     expect(manager.name).toBe('jane');
     expect(manager.id).toBe('1');
     expect(manager.email).toBe('jane@aol.com');
-    expect(manager.OfficeNumber).toBe('8605248123');
+    expect(manager.office).toBe('8605248123');
 });
 
 test('test getName() method', () => {
@@ -30,6 +30,6 @@ test('test getRole() method', () => {
 
 });
 
-test('test getOfficeNumber() method', () => {
-    expect(manager.getOfficeNumber()).toBe('8605248123');
+test('test getoffice() method', () => {
+    expect(manager.getOffice()).toBe('8605248123');
 });
