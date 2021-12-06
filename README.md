@@ -21,6 +21,7 @@
   ## Installation
   * git clone git@github.com:JessVarghese/Team_Profile_Generator.git
   * npm install inquirer
+  * npm install --save-dev jest
  
   ## Usage
 
