@@ -25,11 +25,11 @@
  
   ## Usage
 
-[VIDEO](https://watch.screencastify.com/v/dwW9YbnSP9SW1Y8XUZkp)
+[VIDEO WALKTHROUGH](https://watch.screencastify.com/v/dwW9YbnSP9SW1Y8XUZkp)
   
-  ![DEMO](./assets/TPG.gif)
+
   
-  ![visuals](./assets/TPG_sample.png)
+![visuals](./assets/TPG_sample.png)
 
   
 
